@@ -1,12 +1,12 @@
 # **PDF TO XML Converter(Web App)**
 ## **Tools Used:**
 >
- 1.JAVA
- 2.Apache PDFBox
- 3.SpringMVC
- 4.Jquery, AJAX, JS and css
- 5.Bootstrap Framework
- 6.STS(Spring Tool Suite)
+ 1. JAVA
+ 2. Apache PDFBox
+ 3. SpringMVC
+ 4. Jquery, AJAX, JS and css
+ 5. Bootstrap Framework
+ 6. STS(Spring Tool Suite)
 
 ## **Description:**
 >
